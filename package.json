@@ -1,5 +1,5 @@
 {
-  "name": "access-check",
+  "name": "@access-check/access-check",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
